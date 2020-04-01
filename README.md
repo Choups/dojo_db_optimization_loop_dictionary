@@ -1,4 +1,4 @@
-# dojo_db_optimization_loop_dictionary
+# Optimiser ses requêtes SQL grâçe aux dictionnaires Python
 
 L'objectif de cette pratique est d'éviter d'effectuer des requêtes SQL au sein d'une boucle. Il est préférable d'effectuer une requête qui remplit un dictionnaire python et de boucler sur celui-ci via sa clé pour un gain de temps considérable.
 
